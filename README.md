@@ -1,4 +1,4 @@
-# semantic_triples_extract
+# 数字货币金融舆情主题图谱
 在非结构化文本中提取三元组
 依赖于jieba分词，哈工大自然语言处理工具ltp
 需要下载ltp模型文件放到./model文件夹里面
